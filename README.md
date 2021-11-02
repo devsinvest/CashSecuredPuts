@@ -1,4 +1,6 @@
 # CashSecuredPuts
+Read more: https://devsinvest.com/cash-secured-puts/
+
 Python script that scans options for Cash Secured Puts (https://www.fidelity.com/learning-center/investment-products/options/options-strategy-guide/shortput-cashsecured)
 
 # Requirements
